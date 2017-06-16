@@ -8,8 +8,14 @@ It is a simple password generator implementation made in both `C#` and `Ruby`. W
 Pretty self-explanotory... Put your desired characters in `chars` string and the length of the generated password in `length`.
 
 ---
-**Something more comming soon!**     
-You contact me by cozyplanes_contact@protonmail.com.
+**UItest in C**       
+Testing upon how ascii code is displayed across devices.       
+See `master/UItest/README.md` for details.       
+
+---
+**Contact me!**     
+Fill in the form of my [website](https://cozyplanes.github.io). (It is in the bottom)        
+I will get back to you in 48hrs. (usually...)       
 
 ---
 **LICENSE**     
